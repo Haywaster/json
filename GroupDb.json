@@ -1,7 +1,7 @@
 {
     "students": [
         {
-            "name": "Каха",
+            "name": "Владимир",
             "altname": ["Вова", "Вован", "Володя", "Вовка", "Блодьк"],
             "surname": "Страшко",
             "group": "5A94",
@@ -419,16 +419,6 @@
             "numberOnTheRecordBook": "5А91007",
             "page": "https://sun9-23.userapi.com/impf/c854324/v854324352/1c32f4/GU0eiDmG67E.jpg?size=1364x2048&quality=96&sign=89cbd7882883b6eb4b39246558027902&type=album",
             "url": "https://vk.com/my.tanks"
-        },
-        {
-            "name": "Сурвариум",
-            "altname": ["тестик", "тостик"],
-            "surname": "Кузякин",
-            "group": "нет",
-            "numberOnTheList": "0",
-            "numberOnTheRecordBook": "0",
-            "page": "https://s3.nat-geo.ru/images/2020/3/23/192046828b7048648e3106b3d202c33a.max-2000x1000.jpg",
-            "url": "https://www.youtube.com/"
         }
     ]
 }
