@@ -352,7 +352,7 @@
         },
         {
             "name": "Николай",
-            "altname": ["Коля", "Колянчик", "Колясик", "Коляска", "Колян", "Кальян"],
+            "altname": ["Коля", "Колянчик", "Колясик", "Коляска", "Колян", "Кальян", "Толмач"],
             "surname": "Толмачев",
             "group": "5A93",
             "numberOnTheList": "26",
@@ -439,6 +439,116 @@
             "numberOnTheRecordBook": "5А92003",
             "page": "https://sun9-88.userapi.com/s/v1/ig2/haZ8EAKaaD3rIy8NPcaIpfKFw43mG8z70FIzaHZ8UTb21xAg1vi_VArfyqWQXBkJin7_6okUeK1g1IeSA8B-pN8o.jpg?size=1280x720&quality=96&type=album",
             "url": "https://vk.com/gusarov24rus"
+        },
+        {
+            "name": "Алина",
+            "altname": [],
+            "surname": "Абдукаримова",
+            "group": "5A93",
+            "numberOnTheList": "1",
+            "numberOnTheRecordBook": "5А95001",
+            "page": "https://sun4-12.userapi.com/s/v1/ig2/K7wJaST3i5IWP8mHseoBkX4EJmRT1REH3RR4Tl6ZarFmJuth7E5OaN0hUoy4xeGDBJ0mdl4gkyrYtrgYQlayMzta.jpg?size=200x200&quality=96&crop=0,275,1620,1620&ava=1",
+            "url": "https://vk.com/alleinsv"
+        },
+        {
+            "name": "Павел",
+            "altname": ["Паша", "Пашок", "Паха"],
+            "surname": "Арефьев",
+            "group": "5A93",
+            "numberOnTheList": "2",
+            "numberOnTheRecordBook": "5А97001",
+            "page": "https://storage.tpu.ru/common/2019/07/10/pBJXusNO.jpg",
+            "url": "https://vk.com/id216873950"
+        },
+        {
+            "name": "Владислав",
+            "altname": ["Владик", "Влад"],
+            "surname": "Власов",
+            "group": "5A93",
+            "numberOnTheList": "5",
+            "numberOnTheRecordBook": "5А91005",
+            "page": "https://sun9-69.userapi.com/impf/HFFPHMXnlkmPoIXXvbfpcufGjuVpMMuM2R9f2A/Txk0D-3Bvbk.jpg?size=720x1080&quality=96&sign=4babd510cdbeab411b2f11f22e3caeee&type=album",
+            "url": "https://vk.com/havaru3"
+        },
+        {
+            "name": "Виктория",
+            "altname": ["Вика", "Викуся"],
+            "surname": "Володина",
+            "group": "5A93",
+            "numberOnTheList": "6",
+            "numberOnTheRecordBook": "5А97003",
+            "page": "https://sun9-56.userapi.com/impf/c858028/v858028429/1b8f95/BvW0G3u88EQ.jpg?size=720x1080&quality=96&sign=f4fe7a572d23ed128e0b8f550cb7046b&type=album",
+            "url": "https://vk.com/vika_volodinavika"
+        },
+        {
+            "name": "Данил",
+            "altname": ["Даня", "Данька"],
+            "surname": "Гаськов",
+            "group": "5A93",
+            "numberOnTheList": "7",
+            "numberOnTheRecordBook": "5А91008",
+            "page": "",
+            "url": "https://vk.com/id240241141"
+        },
+        {
+            "name": "Кирилл",
+            "altname": ["Киря", "Кирюха"],
+            "surname": "Иванов",
+            "group": "5A93",
+            "numberOnTheList": "13",
+            "numberOnTheRecordBook": "5А92007",
+            "page": "https://sun9-22.userapi.com/impf/c840536/v840536096/35d39/j0p2Ngp_bfI.jpg?size=854x1080&quality=96&sign=d254aab05506525bbf2e27476a34f4ba&type=album",
+            "url": "https://vk.com/kirilllvanov"
+        },
+        {
+            "name": "Тамерлан",
+            "altname": ["Тима"],
+            "surname": "Комбатуров",
+            "group": "5A93",
+            "numberOnTheList": "16",
+            "numberOnTheRecordBook": "5А96008",
+            "page": "https://sun4-10.userapi.com/impf/O7YgaF4Vc1Xywq90rnY8jET0I30u4hOf_GiMLg/QiRVFWRAotQ.jpg?size=607x1080&quality=95&sign=f1ad85d1654a1c5de448c083b69a7b83&type=album",
+            "url": "https://vk.com/id342744658"
+        },
+        {
+            "name": "Тамерлан",
+            "altname": ["Тима"],
+            "surname": "Комбатуров",
+            "group": "5A93",
+            "numberOnTheList": "16",
+            "numberOnTheRecordBook": "5А96008",
+            "page": "https://sun4-10.userapi.com/impf/O7YgaF4Vc1Xywq90rnY8jET0I30u4hOf_GiMLg/QiRVFWRAotQ.jpg?size=607x1080&quality=95&sign=f1ad85d1654a1c5de448c083b69a7b83&type=album",
+            "url": "https://vk.com/id342744658"
+        },
+        {
+            "name": "Ольга",
+            "altname": "Оля",
+            "surname": "Никитенко",
+            "group": "5A93",
+            "numberOnTheList": "18",
+            "numberOnTheRecordBook": "5А95016",
+            "page": "https://sun9-68.userapi.com/impg/NcmUiLz-75fSgFnfmeKECrfBTk3JNZKnSXuAHw/uso3E-s8Rl4.jpg?size=750x938&quality=96&sign=1e9833a8e97865f7c92af23193a93c8f&type=album",
+            "url": "https://vk.com/pinkfloorlamp"
+        },
+        {
+            "name": "Ольга",
+            "altname": "Оля",
+            "surname": "Никитенко",
+            "group": "5A93",
+            "numberOnTheList": "18",
+            "numberOnTheRecordBook": "5А95016",
+            "page": "https://sun9-68.userapi.com/impg/NcmUiLz-75fSgFnfmeKECrfBTk3JNZKnSXuAHw/uso3E-s8Rl4.jpg?size=750x938&quality=96&sign=1e9833a8e97865f7c92af23193a93c8f&type=album",
+            "url": "https://vk.com/pinkfloorlamp"
+        },
+        {
+            "name": "Александр",
+            "altname": ["Саша", "Саня", "Шура", "Санек", "Новик"],
+            "surname": "Филимоненко",
+            "group": "5A93",
+            "numberOnTheList": "27",
+            "numberOnTheRecordBook": "5А94022",
+            "page": "https://storage.tpu.ru/common/2019/10/22/4mRB9KMn.jpg",
+            "url": "https://vk.com/filimonenkosasha"
         }
     ]
 }
